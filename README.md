@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://api.dicebear.com/7.x/avataaars/svg?seed=Rhulodbyudosojjjjfdñsijfdsh/fjjisisopdijffsqwlerrrrttyu/sd"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/1381584924871495684/1472830439101169744/anime-profile-picture.gif?ex=6993ffbc&is=6992ae3c&hm=9adef3ba0985592086e572876539fb543ee0b7cb4bc634cf81c1ca19d8247a23&"  />
 </div>
 
 ###
@@ -38,14 +38,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RXxsk/RXxsk/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RXxsk/RXxsk/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RXxsk/RXxsk/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RXxsk.RXxsk&"  />
 </div>
@@ -54,6 +46,14 @@
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=Code&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/RXxK">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=RXxK&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
