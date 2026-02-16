@@ -40,6 +40,10 @@
 
 ###
 
+<h4 align="center">Visits  ⬇️</h4>
+
+###
+
 <div align="center">
   <img src="https://count.getloli.com/@:RXxsk?theme=booru-koe&padding=7&offset=0&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
