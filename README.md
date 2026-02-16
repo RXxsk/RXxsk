@@ -33,19 +33,33 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://discord.gg/h33dxYAe" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RXxsk.RXxsk&"  />
+  <img src="https://count.getloli.com/@:RXxsk?theme=booru-koe&padding=7&offset=0&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=Code&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="250" src="https://cdn.discordapp.com/attachments/1381584924871495684/1472006861749354496/20260213_170923.png?ex=6993a3b8&is=69925238&hm=609cc087f55edae9fd2670632f059c3ca76db110237644243c7edd78eb276dfc&"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=footer&reversal=true&text=NEXT%20PROJECT%20&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=FFFFFF&strokeWidth=7&animation=scaleIn&descSize=20&descAlign=26&descAlignY=60&textBg=false&theme=merko"  />
 </div>
 
 ###
